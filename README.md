@@ -1,4 +1,3 @@
-# PowerBI-Reports
 # Sales Analytics Dashboard
 See the Full Dashboard here - [App PowerBI Link](https://app.powerbi.com/view?r=eyJrIjoiMjNhOGIxNTMtNjFjZS00NmFmLTgzMmUtNjYxNWVlYTI0M2EwIiwidCI6ImZjYmVkZGI2LWIyYmMtNDIzYy05NDFjLThhZWUyZTM3YjRkZCJ9&embedImagePlaceholder=true)
 
