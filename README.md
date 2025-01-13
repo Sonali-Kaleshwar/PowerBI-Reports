@@ -1,6 +1,6 @@
 # Sales Performance Dashboard - Awesome Chocolates
 
-### Dashboard Link : [View Full Dashboard here]https://app.powerbi.com/view?r=eyJrIjoiMjNhOGIxNTMtNjFjZS00NmFmLTgzMmUtNjYxNWVlYTI0M2EwIiwidCI6ImZjYmVkZGI2LWIyYmMtNDIzYy05NDFjLThhZWUyZTM3YjRkZCJ9&embedImagePlaceholder=true
+### Dashboard Link : [View Full Dashboard here] https://app.powerbi.com/view?r=eyJrIjoiMjNhOGIxNTMtNjFjZS00NmFmLTgzMmUtNjYxNWVlYTI0M2EwIiwidCI6ImZjYmVkZGI2LWIyYmMtNDIzYy05NDFjLThhZWUyZTM3YjRkZCJ9&embedImagePlaceholder=true
 
 ## Overview
 
